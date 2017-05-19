@@ -84,6 +84,7 @@
   "devDependencies": {
     "babel-eslint": "^5.0.0",
     "babel-preset-es2015": "^6.5.0",
+    "builder": "^2.9.1",
     "builder-support": "^0.3.0",
     "eslint": "^2.2.0",
     "eslint-config-airbnb": "^6.1.0",
